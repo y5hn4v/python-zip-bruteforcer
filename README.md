@@ -1,6 +1,6 @@
 # Zip File Password Bruteforcer
 
-A zipfile password bruteforcer made in python. A simple CLI tool. Only supporting .zip files for now. 
+A zipfile password bruteforcer made in python. A simple CLI tool. Only supporting .zip files for now. Please report any bugs/flaws and suggestions to my [twitter](https://twitter.com/y5hn4v) 
 
 ## Usage
 ```bash
